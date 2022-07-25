@@ -1,0 +1,7 @@
+print("Welcome to the HDFC bank")
+PIN= input("please enter your 4 digit PIN no.")
+PIN1=input("kindly re-enter")
+Amount=input ("kindly enter the amount you wish to withdraw")
+print("Please wait while we processing your request")
+Exit=input ("please press exit button")
+print("Thanks for banking with us")
